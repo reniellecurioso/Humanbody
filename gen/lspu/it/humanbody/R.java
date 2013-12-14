@@ -17,41 +17,41 @@ public final class R {
          screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
     
          */
-        public static final int activity_horizontal_margin=0x7f050000;
-        public static final int activity_vertical_margin=0x7f050001;
+        public static int activity_horizontal_margin=0x7f050000;
+        public static int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
-        public static final int earthtruecolor_nasa_big=0x7f020000;
-        public static final int ic_launcher=0x7f020001;
-        public static final int rajawali_tex=0x7f020002;
+        public static int earthtruecolor_nasa_big=0x7f020000;
+        public static int ic_launcher=0x7f020001;
+        public static int rajawali_tex=0x7f020002;
     }
     public static final class id {
-        public static final int action_settings=0x7f090000;
+        public static int action_settings=0x7f090000;
     }
     public static final class layout {
-        public static final int activity_humanbody=0x7f030000;
+        public static int activity_humanbody=0x7f030000;
     }
     public static final class menu {
-        public static final int humanbody=0x7f080000;
+        public static int humanbody=0x7f080000;
     }
     public static final class raw {
-        public static final int blur_fragment_shader=0x7f040000;
-        public static final int copy_fragment_shader=0x7f040001;
-        public static final int fog_fragment_shader=0x7f040002;
-        public static final int grey_scale_fragment_shader=0x7f040003;
-        public static final int minimal_vertex_shader=0x7f040004;
-        public static final int multiobjects_mtl=0x7f040005;
-        public static final int multiobjects_obj=0x7f040006;
-        public static final int paltz_mtl=0x7f040007;
-        public static final int paltz_obj=0x7f040008;
-        public static final int sepia_fragment_shader=0x7f040009;
-        public static final int tao_mtl=0x7f04000a;
-        public static final int tao_obj=0x7f04000b;
+        public static int blur_fragment_shader=0x7f040000;
+        public static int copy_fragment_shader=0x7f040001;
+        public static int fog_fragment_shader=0x7f040002;
+        public static int grey_scale_fragment_shader=0x7f040003;
+        public static int minimal_vertex_shader=0x7f040004;
+        public static int multiobjects_mtl=0x7f040005;
+        public static int multiobjects_obj=0x7f040006;
+        public static int paltz_mtl=0x7f040007;
+        public static int paltz_obj=0x7f040008;
+        public static int sepia_fragment_shader=0x7f040009;
+        public static int tao_mtl=0x7f04000a;
+        public static int tao_obj=0x7f04000b;
     }
     public static final class string {
-        public static final int action_settings=0x7f060001;
-        public static final int app_name=0x7f060000;
-        public static final int hello_world=0x7f060002;
+        public static int action_settings=0x7f060001;
+        public static int app_name=0x7f060000;
+        public static int hello_world=0x7f060002;
     }
     public static final class style {
         /** 
@@ -75,10 +75,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f070000;
+        public static int AppBaseTheme=0x7f070000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f070001;
+        public static int AppTheme=0x7f070001;
     }
 }
